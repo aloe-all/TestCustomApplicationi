@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestApplication</string>
+    <string name="test_show_toast">testShowToast</string>
+</resources>
